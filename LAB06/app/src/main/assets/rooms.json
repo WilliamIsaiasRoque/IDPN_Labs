@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sala de Principal",
+    "vertices": [ {"x":100,"y":300}, {"x":780,"y":300}, {"x":780,"y":520}, {"x":100,"y":520} ],
+    "description": "Sala de bienvenida al público o personal selecto",
+    "image": "room1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Oficina",
+    "vertices": [ {"x":500,"y":100}, {"x":780,"y":100}, {"x":780,"y":280}, {"x":500,"y":280} ],
+    "description": "Oficina administrativa.",
+    "image": "room2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sala de Reuniones",
+    "vertices": [ {"x":100,"y":100}, {"x":480,"y":100}, {"x":480,"y":280}, {"x":100,"y":280} ],
+    "description": "Sala de reuniones donde se hacen las conferencias.",
+    "image": "reuniones.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Patio",
+    "vertices": [ {"x":800,"y":100}, {"x":1080,"y":100}, {"x":1080,"y":280}, {"x":800,"y":280} ],
+    "description": "Patio del lugar, conservado de la mejor manera.",
+    "image": "patio.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Laboratorio",
+    "vertices": [ {"x":800,"y":300}, {"x":1080,"y":300}, {"x":1080,"y":520}, {"x":800,"y":520} ],
+    "description": "Zona de laboratorio con la mejor tecnología",
+    "image": "lab.jpg"
+  }
+]
+
